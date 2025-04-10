@@ -1,0 +1,14 @@
+"NDInfoFile", Version 2.0
+"Description", Multi Dimensions Experiment
+"StartTime1", 20190301 16:50:22
+"DoTimelapse", TRUE
+"NTimePoints", 301
+"DoStage", FALSE
+"DoWave", TRUE
+"NWavelengths", 1
+"WaveName1", "BP CSU_561 Em 575-620"
+"WaveDoZ1", TRUE
+"DoZSeries", FALSE
+"WaveInFileName", TRUE
+"NEvents", 0
+"EndFile"
